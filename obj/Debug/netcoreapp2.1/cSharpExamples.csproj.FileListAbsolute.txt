@@ -1,0 +1,11 @@
+/home/ajbeeman/Documents/lc102/cSharpExamples/obj/Debug/netcoreapp2.1/cSharpExamples.csprojAssemblyReference.cache
+/home/ajbeeman/Documents/lc102/cSharpExamples/obj/Debug/netcoreapp2.1/cSharpExamples.csproj.CoreCompileInputs.cache
+/home/ajbeeman/Documents/lc102/cSharpExamples/obj/Debug/netcoreapp2.1/cSharpExamples.AssemblyInfoInputs.cache
+/home/ajbeeman/Documents/lc102/cSharpExamples/obj/Debug/netcoreapp2.1/cSharpExamples.AssemblyInfo.cs
+/home/ajbeeman/Documents/lc102/cSharpExamples/bin/Debug/netcoreapp2.1/cSharpExamples.deps.json
+/home/ajbeeman/Documents/lc102/cSharpExamples/bin/Debug/netcoreapp2.1/cSharpExamples.runtimeconfig.json
+/home/ajbeeman/Documents/lc102/cSharpExamples/bin/Debug/netcoreapp2.1/cSharpExamples.runtimeconfig.dev.json
+/home/ajbeeman/Documents/lc102/cSharpExamples/bin/Debug/netcoreapp2.1/cSharpExamples.dll
+/home/ajbeeman/Documents/lc102/cSharpExamples/bin/Debug/netcoreapp2.1/cSharpExamples.pdb
+/home/ajbeeman/Documents/lc102/cSharpExamples/obj/Debug/netcoreapp2.1/cSharpExamples.dll
+/home/ajbeeman/Documents/lc102/cSharpExamples/obj/Debug/netcoreapp2.1/cSharpExamples.pdb
